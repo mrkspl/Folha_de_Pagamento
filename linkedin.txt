@@ -1,0 +1,18 @@
+Este é um projetinho que fiz junto com colegas nas aula de Programação Orientada a Objeto.
+Um CRUD simples em Java que armazena alguns dados em memoria usando ArrayList.
+A ideia era simular um cadastro de Clientes e Fornecedores de uma loja.
+
+#estudo
+#desenvolvimento
+#java
+
+
+
+Mais um projeto...dessa vez tinhamos que criar algumas paginas jsp para o calculo de Amortização Simples, Amortização Americana e Tabela Price.
+
+#estudo
+#desenvolvimento
+#java
+
+
+
